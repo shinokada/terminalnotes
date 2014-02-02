@@ -1,5 +1,3 @@
 # Personal notes on terminals and its applications
 
-- [Mutt](./notes/mutt.md)
-
-
+[Personla notes on terminals and applications](https://github.com/shinokada/terminalnotes/wiki/_pages)
